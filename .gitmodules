@@ -1,0 +1,4 @@
+[submodule "RLJO/Alyaferp"]
+	path = RLJO/Alyaferp
+	url = git@github.com:RLJO/Alyaferp.git
+	branch = main
